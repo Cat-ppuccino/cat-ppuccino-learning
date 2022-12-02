@@ -8,7 +8,7 @@
 \r:一个回车return System.out.println("")
 
 
-问当注释
+文档注释
 
 javadoc -d d:\\temp -author -version JavaDocComment.java
 
